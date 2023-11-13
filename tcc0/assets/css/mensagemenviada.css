@@ -1,0 +1,46 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+body {
+    background-color: #F3F1F1;
+    overflow: hidden;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.container {
+    background-color: #FFFFFF;
+    height: 35%;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: #b5b7b8 1px 1px 5px 0px;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 10vh;
+    font-weight: 800;
+}
+
+button {
+    background-color: #1576F5;
+    border: none;
+    width: 50%;
+    padding: 0.7rem;
+    border-radius: 10px;
+}
+
+a {
+     color: #FFFFFF; 
+     text-decoration: none;
+}
